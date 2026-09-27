@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.words.json
+*.edit.txt
+bench.*
+video/fonts/
+video/film.json

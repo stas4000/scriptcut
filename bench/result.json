@@ -1,0 +1,13 @@
+{
+ "source_seconds": 180.0,
+ "output_seconds": 103.4,
+ "lines": 30,
+ "lines_cut": 10,
+ "spans": 34,
+ "kept_words": 250,
+ "kept_words_found": 248,
+ "kept_word_recall": 0.992,
+ "cut_lines_leaked": 0,
+ "render_seconds": 3.5,
+ "retranscribe_seconds": 53.4
+}
